@@ -5,4 +5,5 @@ func main() {
 	Value()
 	Constat()
 	Iteration()
+	Control()
 }
