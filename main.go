@@ -6,4 +6,5 @@ func main() {
 	Constat()
 	Iteration()
 	Control()
+	Switches()
 }
