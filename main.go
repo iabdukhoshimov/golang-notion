@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 	Hello_world()
 	Value()
@@ -9,4 +11,5 @@ func main() {
 	Switches()
 	Array()
 	Lifo()
+	fmt.Println(Swap())
 }
