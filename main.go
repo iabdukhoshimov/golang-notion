@@ -7,4 +7,5 @@ func main() {
 	Iteration()
 	Control()
 	Switches()
+	Array()
 }
