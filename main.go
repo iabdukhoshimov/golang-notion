@@ -8,4 +8,5 @@ func main() {
 	Control()
 	Switches()
 	Array()
+	Lifo()
 }

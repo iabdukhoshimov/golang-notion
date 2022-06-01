@@ -23,5 +23,15 @@ func Array() {
 		}
 	}
 
+	// var threeD [2][3][4]int
+	// for i := 0; i < 4; i++ {
+	// 	for j := 0; j <= 5; j++ {
+	// 		for k := 0; k <= 6; k++ {
+	// 			threeD[i][j][k] = i + j + k
+	// 		}
+	// 	}
+	// }
+
 	fmt.Println("2nd", twoD)
+	// fmt.Println("3nd", threeD)
 }
