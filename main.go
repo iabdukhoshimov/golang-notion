@@ -16,4 +16,6 @@ func main() {
 	x := []int{1, 2, 3, 4, 5}
 	Reverse_Slice(x)
 	fmt.Println(x)
+
+	Check()
 }
