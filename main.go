@@ -33,4 +33,7 @@ func main() {
 
 	Range()
 
+	fmt.Println(Add(1, 2))
+	fmt.Println(Plusplus(1, 2, 3))
+
 }
