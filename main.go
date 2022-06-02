@@ -1,30 +1,36 @@
 package main
 
+import "fmt"
+
 func main() {
-	// Hello_world()
+	Hello_world()
 
-	// Value()
+	Value()
 
-	// Constat()
+	Constat()
 
-	// Iteration()
+	Iteration()
 
-	// Control()
+	Control()
 
-	// Switches()
+	Switches()
 
-	// Array()
+	Array()
 
-	// Lifo()
+	Lifo()
 
-	// fmt.Println(Swap())
+	fmt.Println(Swap())
 
-	// x := []int{1, 2, 3, 4, 5}
-	// Reverse_Slice(x)
-	// fmt.Println(x)
+	x := []int{1, 2, 3, 4, 5}
+	Reverse_Slice(x)
+	fmt.Println(x)
 
-	// Check()
+	Check()
 
 	Slices()
+
+	Maps()
+
+	Range()
 
 }
