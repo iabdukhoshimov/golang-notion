@@ -36,4 +36,10 @@ func main() {
 	fmt.Println(Add(1, 2))
 	fmt.Println(Plusplus(1, 2, 3))
 
+	a, b := Vals()
+	fmt.Println(a)
+	fmt.Println(b)
+
+	_, c := Vals()
+	fmt.Println(c)
 }
